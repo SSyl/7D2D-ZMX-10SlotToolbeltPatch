@@ -1,0 +1,16 @@
+<configs>
+	
+	<!-- Changes SMXhud to add 2 extra toolbelt slots and centers it properly on the screen. -->
+	<!--	//SMX // Toolbelt -->
+
+	<set xpath="/windows/window[@name='windowToolbelt']/@pos">-82,85</set>
+	<set xpath="/windows/window[@name='windowToolbelt']/rect/sprite[@name='SMXtoolbeltBG']/@size">965,120</set>
+	<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='SMXtoolbelt']/@cols">10</set>
+	<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='SMXtoolbeltNumbers']/@cols">10</set>
+
+	<append xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='SMXtoolbeltNumbers']">
+		<label name="SMXtbNumber9" depth="10" size="12,22" text="9" font_size="20" color="[hudElementsTBSlot]" crispness="Never" effect="outline" effect_distance="1,1" justify="center" />
+		<label name="SMXtbNumber10" depth="10" size="12,22" text="10" font_size="20" color="[hudElementsTBSlot]" crispness="Never" effect="outline" effect_distance="1,1" justify="center" />
+	</append>
+
+</configs>
