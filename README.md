@@ -6,5 +6,5 @@ This is a compatibility patch to make Sirllion's SMX UI work with KhaineGB's 10 
 
 **Links:**
 
-[SMX - By Sirillion](https://www.nexusmods.com/7daystodie/mods/22)
-[KhaineGB's 10 Slot Toolbelt](https://7daystodie.com/forums/showthread.php?134674-10-Slot-Toolbelt!-(A18))
+* [SMX - By Sirillion](https://www.nexusmods.com/7daystodie/mods/22)
+* [KhaineGB's 10 Slot Toolbelt](https://7daystodie.com/forums/showthread.php?134674-10-Slot-Toolbelt!-(A18))
