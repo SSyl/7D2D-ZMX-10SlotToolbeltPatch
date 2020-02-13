@@ -1,4 +1,7 @@
 <configs>
+
+	<!-- Revert changes made by the 10 Slot Toolbelt mod so it's compatible with SDX -->
+	<remove xpath="/windows/window[@name='windowToolbeltSDX']" />
 	
 	<!-- Changes SMXhud to add 2 extra toolbelt slots and centers it properly on the screen. -->
 	<!--	//SMX // Toolbelt -->

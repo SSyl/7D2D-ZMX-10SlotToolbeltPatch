@@ -1,0 +1,4 @@
+<configs>
+	<!-- Revert change made by 10 Slot Toolbelt so that it's compatible with SDX (which uses the default Toolbelt window) -->
+	<set xpath="/xui/ruleset/window_group[@name='toolbelt']/window[@name='windowToolbeltSDX']/@name">windowToolbelt</set>
+</configs>
